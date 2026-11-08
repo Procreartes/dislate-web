@@ -1,0 +1,8 @@
+[
+  {"titulo": "ASOMBRA", "tipo": "Festival de magia", "lugar": "Canarias", "anio": "2026", "texto": "Festival Internacional de Magia de Canarias, en teatros, calles y salas de varias islas.", "enlace": "https://festivalasombra.com", "imagen": "img/proyectos/asombra", "imagen_alt": "Cartel de ASOMBRA, Festival Internacional de Magia de Canarias", "color": "#111111"},
+  {"titulo": "Festival En Pie", "tipo": "Artes de calle", "lugar": "Teror", "anio": "2026", "texto": "Festival Internacional de Arte en la Calle de Teror.", "enlace": "https://festivalenpieteror.com", "imagen": "img/proyectos/en-pie-teror", "imagen_alt": "Acróbata aérea sobre una gran esfera iluminada frente a la Basílica de Teror", "color": "#009FC4"},
+  {"titulo": "Teror es Magia", "tipo": "Festival de magia", "lugar": "Teror", "anio": "", "texto": "Festival de Magia de la Villa de Teror.", "enlace": "https://teroresmagia.es", "imagen": "img/proyectos/teror-es-magia", "imagen_alt": "Espectáculo de calle «La Máquina» en la Plaza de Sintes de Teror", "color": "#333333"},
+  {"titulo": "Notas de Bodega", "tipo": "Música y vino", "lugar": "Gran Canaria", "anio": "", "texto": "Música en directo y vinos de la D.O. Gran Canaria.", "enlace": "https://notasdebodega.es", "imagen": "", "imagen_alt": "", "color": "#7a1f3d"},
+  {"titulo": "Volcanic Xperience", "tipo": "Stand", "lugar": "Gáldar", "anio": "", "texto": "Stand en la Feria del Mayor de Gáldar.", "enlace": "", "imagen": "", "imagen_alt": "", "color": "#FF0000"},
+  {"titulo": "Telde Sabe a Queso", "tipo": "Feria", "lugar": "Telde", "anio": "", "texto": "Feria del queso de Telde.", "enlace": "", "imagen": "", "imagen_alt": "", "color": "#F2B705"}
+]
