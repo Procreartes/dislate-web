@@ -1,7 +1,7 @@
 name: Publicar la web
 
 # Al cambiar los datos (desde el Gestor de webs del portal o a mano) o los scripts,
-# regenera las páginas y las sube; Cloudflare publica solo al recibir el commit.
+# regenera las páginas y las sube; Coolify (servidor propio) publica solo al recibir el commit.
 on:
   workflow_dispatch:
   push:
