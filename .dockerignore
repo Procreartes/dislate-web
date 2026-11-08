@@ -5,9 +5,6 @@ data
 node_modules
 __pycache__
 *.md
-Dockerfile
-nginx.conf
-.dockerignore
 .assetsignore
 _headers
 wrangler.jsonc
